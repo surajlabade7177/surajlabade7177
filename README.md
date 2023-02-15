@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/creative-3d-render-astronaut-flying-with-rocket-play-video-buttoon-web-development-banner-marketing-material-presentation-online-advertising_460848-11470.jpg?w=1380&t=st=1676404587~exp=1676405187~hmac=8c0df6fc1afb1cc4db1afdb14cb566f71b8e5a8922b62490452d86c8cbcd9d20)
+![MasterHead](https://klaxos.com/wp-content/uploads/2018/01/strategy-light-bulbs.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Labade</h1>
 <h3 align="center">A passionate "Frontend Developer" from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
