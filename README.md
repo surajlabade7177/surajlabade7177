@@ -1,4 +1,4 @@
-![MasterHead](https://klaxos.com/wp-content/uploads/2018/01/strategy-light-bulbs.jpg)
+![MasterHead](https://raw.githubusercontent.com/surajlabade7177/surajlabade7177/main/Suraj%20Labade.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Labade</h1>
 <h3 align="center">A passionate "Frontend Developer" from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
